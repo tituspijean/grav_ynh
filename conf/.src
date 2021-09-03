@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/getgrav/grav/releases/download/1.7.20/grav-v1.7.20.zip
+SOURCE_SUM=5d50b77429a219dfb2ba8ae5c3b443a8b110d78355be901f2972ef7b40598ad3
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
